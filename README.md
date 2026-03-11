@@ -159,5 +159,9 @@ tplotlib, Seaborn
 ---
 
 ### ✍️ Quote of the Day
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+“Artificial intelligence is the new electricity.”  
+— **Andrew Ng**
+
+</div>
