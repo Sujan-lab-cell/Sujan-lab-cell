@@ -21,6 +21,15 @@
 
 ---
 
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=opencv&perline=4"/>
+</a>
+</p>
+tplotlib, Seaborn
+
+---
 ### 🛠️ Tech Stack using Skill Icons
 
 ### 👨‍💻 Programming
@@ -31,7 +40,7 @@
 </a>
 </p>
 
-* **Languages:** Python, C++,C
+* **Languages:** 🐍 Python, ⚙️ C++, ⚙️ C
 
 ---
 
@@ -45,8 +54,8 @@
 </a>
 </p>
 
-* **Concepts:** Machine Learning, Deep Learning, NLP, Model Fine-Tuning
-* **Libraries:** Scikit-learn, TensorFlow, Keras
+* **Concepts:** 🤖 Machine Learning, 🧠 Deep Learning, 💬 NLP, 🔧 Model Fine-Tuning  
+* **Libraries:** 📊 Scikit-learn, 🔶 TensorFlow, 🔴 Keras
 
 ---
 
@@ -58,8 +67,8 @@
 </a>
 </p>
 
-* **Technologies:** OpenCV, YOLO Object Detection
-* **Concepts:** CNN, Image Processing, Transfer Learning
+* **Technologies:** 👁️ OpenCV, 🎯 YOLO Object Detection  
+* **Concepts:** 🧠 CNN, 🖼️ Image Processing, 🔄 Transfer Learning
 
 ---
 
@@ -71,8 +80,8 @@
 </a>
 </p>
 
-* **Analysis:** NumPy, Pandas, Data Cleaning, EDA
-* **Visualization:** Matplotlib, Seaborn
+* **Analysis:** 📊 NumPy, 🐼 Pandas, 🧹 Data Cleaning, 🔎 EDA  
+* **Visualization:** 📈 Matplotlib, 📉 Seaborn
 
 ---
 
@@ -84,8 +93,8 @@
 </a>
 </p>
 
-* **Databases:** MySQL, MongoDB
-* **Big Data:** Hadoop
+* **Databases:** 🗄️ MySQL, 🍃 MongoDB  
+* **Big Data:** 🐘 Hadoop
 
 ---
 
@@ -97,7 +106,7 @@
 </a>
 </p>
 
-* **Frontend:** HTML5, CSS3, JavaScript
+* **Frontend:** 🌐 HTML5, 🎨 CSS3, ⚡ JavaScript
 
 ---
 
@@ -109,10 +118,8 @@
 </a>
 </p>
 
-* **Development:** Git, GitHub, VS Code
-* **ML Environment:** Google Colab, Jupyter Notebook
-
-
+* **Development:** 🔧 Git, 🐙 GitHub, 💻 VS Code  
+* **ML Environment:** ☁️ Google Colab, 📓 Jupyter Notebook
 ---
 
 ### 📊 Stats Card
