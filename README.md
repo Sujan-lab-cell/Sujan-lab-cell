@@ -106,8 +106,7 @@ tplotlib, Seaborn
 </a>
 </p>
 
-* **Frontend:** 🌐 HTML5, 🎨 CSS3, ⚡ JavaScript
-
+* **Frontend:** 🌐 HTML5, 🎨 CSS3, ⚡ JavaScript, Streamlit
 ---
 
 ### 🛠️ Tools & Platforms
