@@ -141,10 +141,6 @@ tplotlib, Seaborn
 
 ---
 
-### 👀 Profile Views
-
-![Counter](https://count.getloli.com/get/@Sujan-lab-cell?theme=booru-r6gdrawfriends)
-
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-trophies.vercel.app/?username=Srujan253&theme=dracula&column=7&margin-w=15)
 
