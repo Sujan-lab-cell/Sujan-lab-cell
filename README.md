@@ -76,7 +76,7 @@ MySQL • MongoDB
 
 ### Tools
 
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Notebook
 
 ---
 
