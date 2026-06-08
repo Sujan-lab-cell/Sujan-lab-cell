@@ -82,7 +82,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Noteb
 
 ## Currently Into
 
-**AI & Deep Learning** — Neural Networks, Computer Vision, NLP, Transformers, and LLMs.
+**AI & Deep Learning** — Neural Networks, Computer Vision, NLP, Transformers, RAG, and LLMs.
 
 **Computer Vision** — Object Detection, Image Classification, Transfer Learning, and Model Optimization.
 
