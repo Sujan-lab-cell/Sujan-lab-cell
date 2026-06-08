@@ -37,7 +37,7 @@ The system supports multilingual content, enabling users to provide either writt
 **Tech:** Python, NLP, Deep Learning, Speech Processing, TensorFlow
 
 
-### Face Gender Classification System
+### Face Genereator and Gender Classification System
 
 Built a deep learning model to classify gender from facial images using Computer Vision techniques. Worked on image preprocessing, data augmentation, model training, and evaluation.
 
