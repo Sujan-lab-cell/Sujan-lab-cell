@@ -113,8 +113,8 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Noteb
 
 🐙 GitHub: **https://github.com/Sujan-lab-cell**
 
-📚 LeetCode: **LeetCode Link**
 
 ---
 
-*"Learn continuously. Build consistently. Improve every day."*
+*""Artificial Intelligence is the new electricity" 
+                                                        -AI visionary Andrew Ng."*
