@@ -1,8 +1,12 @@
+
 # Hi, I'm Sujan KS
 
-AI & Machine Learning enthusiast based in Karnataka, India. I enjoy building intelligent systems, training computer vision models, and exploring how AI can solve real-world problems.
+AI and Machine Learning developer based in Karnataka, India. I enjoy building intelligent systems that combine Computer Vision, Deep Learning, NLP, and Speech AI to solve real-world problems.
 
-Currently focused on **Machine Learning, Deep Learning, Computer Vision, and Python development**. Alongside AI, I'm also preparing for **JLPT N5 Japanese** and strengthening my problem-solving skills through DSA.
+Currently exploring deep learning, computer vision, and multilingual AI systems through hands-on projects ranging from landslide detection using satellite imagery to question generation from multilingual text and speech.
+
+Lately focused on model development, data-centric AI, and strengthening my foundations in algorithms, mathematics, and Japanese language learning.
+
 
 ---
 
@@ -17,6 +21,21 @@ Currently focused on **Machine Learning, Deep Learning, Computer Vision, and Pyt
 ---
 
 ## Some Things I've Built
+### GeoSentinel — Landslide Detection System
+
+Built an AI-powered landslide detection system using satellite imagery and deep learning to identify landslide-prone regions. Designed the complete pipeline from data preprocessing and augmentation to model training and evaluation, enabling automated terrain risk assessment from geospatial imagery.
+
+Focused on improving classification performance across varying terrain conditions while handling challenges such as class imbalance and environmental variability.
+
+**Tech:** Python, TensorFlow, Keras, OpenCV, NumPy, Pandas
+### Question Generation from Multilingual Text and Speech
+
+Built an AI-powered question generation system capable of generating meaningful questions from both text and speech inputs across multiple languages. Designed a pipeline that combines speech processing, natural language understanding, and question generation to improve accessibility and automated learning workflows.
+
+The system supports multilingual content, enabling users to provide either written text or spoken input and receive context-aware generated questions. Focused on preprocessing, language handling, and model optimization for diverse linguistic inputs.
+
+**Tech:** Python, NLP, Deep Learning, Speech Processing, TensorFlow
+
 
 ### Face Gender Classification System
 
@@ -30,11 +49,6 @@ Implemented object detection pipelines using YOLO and OpenCV for real-time image
 
 **Tech:** Python, OpenCV, YOLO
 
-### Machine Learning Projects
-
-Built predictive models involving data preprocessing, feature engineering, model training, and performance evaluation.
-
-**Tech:** Python, Scikit-Learn, Pandas, NumPy
 
 ---
 
