@@ -109,7 +109,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Noteb
 
 📧 Email: **[sujankswork@gmail.com](mailto:sujankswork@gmail.com)**
 
-💼 LinkedIn: **[sujan-k-s-a41261321]https://www.linkedin.com/in/sujan-k-s-a41261321/**
+💼 LinkedIn: **[sujan-k-s-a41261321](https://www.linkedin.com/in/sujan-k-s-a41261321/)**
 
 🐙 GitHub: **https://github.com/Sujan-lab-cell**
 
