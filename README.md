@@ -10,7 +10,7 @@ Lately focused on model development, data-centric AI, and strengthening my found
 
 ---
 
-## What I'm Working On
+## Learning And Working On
 
 **Building** — Computer Vision applications, image classification models, object detection systems, and AI-powered projects using Python.
 
