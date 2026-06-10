@@ -105,7 +105,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Noteb
 
 ---
 
-## Elsewhere
+## Social Connection
 
 📧 Email: **[sujankswork@gmail.com](mailto:sujankswork@gmail.com)**
 
