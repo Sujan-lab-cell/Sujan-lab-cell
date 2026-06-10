@@ -115,6 +115,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Noteb
 
 
 ---
-
-*""Artificial Intelligence is the new electricity" 
+```text
+"Artificial Intelligence is the new electricity" 
                                                         -AI visionary Andrew Ng."*
+```
