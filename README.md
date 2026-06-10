@@ -52,7 +52,7 @@ Implemented object detection pipelines using YOLO and OpenCV for real-time image
 
 ---
 
-## Stack
+## Tech Stack
 
 ### Languages
 
