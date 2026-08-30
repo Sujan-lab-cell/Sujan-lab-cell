@@ -12,6 +12,9 @@ Lately focused on model development, data-centric AI, and strengthening my found
 
 ## Learning And Working On
 
+**ROS (Robotic Operating System)**:Working of ROS,IMU,LDR,IOT.
+**Colorectal Cancer Temporal Frame Cross Validation**:Working of Detection ,Tracking,Seagmentaion,Classification and temporal Frame validation.
+
 **Building** — Computer Vision applications, image classification models, object detection systems, and AI-powered projects using Python.
 
 **Learning** — Deep Learning architectures, CNNs, Transformers, Large Language Models (LLMs), MLOps fundamentals, and advanced Python.
