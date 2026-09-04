@@ -24,7 +24,7 @@ Lately focused on model development, data-centric AI, and strengthening my found
 ---
 ## Experinace
 
-**AI/ML Intern — AyushLab (isiri technologies pvt ltd )GitHub May 2026 – july 2026**.
+### AI/ML Intern — AyushLab (isiri technologies pvt ltd )GitHub May 2026 – july 2026**.
 
 Developed an invoice parser to extract structured data from PDF, image, Excel, and CSV invoices using EasyOCR,
 Regular Expressions, Pandas, NLP and LLM integration.
