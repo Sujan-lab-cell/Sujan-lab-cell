@@ -22,6 +22,22 @@ Lately focused on model development, data-centric AI, and strengthening my found
 **Grinding** — Data Structures & Algorithms, Machine Learning projects, and Japanese language practice.
 
 ---
+## Experinace
+
+**AI/ML Intern — AyushLab (isiri technologies pvt ltd )GitHub May 2026 – july 2026**.
+
+Developed an invoice parser to extract structured data from PDF, image, Excel, and CSV invoices using EasyOCR,
+Regular Expressions, Pandas, NLP and LLM integration.
+
+Implemented hybrid approach By combining rule-based extraction with fallback.
+
+Designed a standardized JSON pipeline to extract invoice headers, supplier/buyer details, line items, pricing, taxes,
+batch, expiry, and totals.
+
+Designed validation logic to verify required fields, mathematical consistency, and generate review reports.
+
+Deployed the FastAPI invoice processing backend on Render using Docker for cloud-based invoice extraction and
+API serving.
 
 ## Some Things I've Built
 ### GeoSentinel — Landslide Detection System
