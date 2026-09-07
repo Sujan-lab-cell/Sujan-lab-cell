@@ -137,4 +137,6 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Noteb
 ```text
 "Artificial Intelligence is the new electricity" 
                                                         -AI visionary Andrew Ng."*
+"life is colorful let machines see"
+                                          -Sujan KS
 ```
