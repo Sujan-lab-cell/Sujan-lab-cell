@@ -17,7 +17,7 @@ Lately focused on , Robotics ,Automotation and ROS2  also model development, dat
 
 **Building** — Computer Vision applications, image classification models, object detection systems, and AI-powered projects using Python.
 
-**Learning** — Deep Learning architectures, CNNs, Transformers, Large Language Models (LLMs), MLOps fundamentals, and advanced Python.
+**Learning** — ROS2 ,Reinforcement Learning, Deep Learning architectures, CNNs, Transformers, Large Language Models (LLMs), and advanced Python.
 
 **Grinding** — Data Structures & Algorithms, Machine Learning projects, and Japanese language practice.
 
