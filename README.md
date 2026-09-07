@@ -5,7 +5,7 @@ AI and Machine Learning developer based in Karnataka, India. I enjoy building in
 
 Currently exploring deep learning, computer vision, and multilingual AI systems through hands-on projects ranging from landslide detection using satellite imagery to question generation from multilingual text and speech.
 
-Lately focused on model development, data-centric AI, and strengthening my foundations in algorithms, mathematics, and Japanese language learning.
+Lately focused on , Robotics ,Automotation and ROS2  also model development, data-centric AI, and strengthening my foundations in algorithms, mathematics, and Japanese language learning.
 
 
 ---
@@ -84,6 +84,9 @@ TensorFlow • Keras • PyTorch • Scikit-Learn
 ### Computer Vision
 
 OpenCV • YOLO • CNNs • Image Processing
+### Robotics:
+
+RL and ROS2
 
 ### Data Science
 
@@ -137,6 +140,11 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Noteb
 ```text
 "Artificial Intelligence is the new electricity" 
                                                         -AI visionary Andrew Ng."*
+
+```
+---
+```text
 "life is colorful let machines see"
                                           -Sujan KS
 ```
+                                          ---
