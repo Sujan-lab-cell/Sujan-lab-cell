@@ -24,19 +24,24 @@ Lately focused on , Robotics ,Automotation and ROS2  also model development, dat
 ---
 ## Experinace
 
+### FlyRank Machine Learning Internship                                                              July 2026 - Present
+
+- Completed an **8-week Machine Learning Internship at FlyRank**, working on real-world SEO and search-performance data.
+- Built a **machine learning framework to identify webpages at risk of search-performance decline** and prioritize them for human review.
+- Performed **data analysis, feature engineering, leakage checks, and client-grouped validation** on large-scale search data.
+- Compared **8 ML model families**, including Random Forest, XGBoost, LightGBM, CatBoost, Logistic Regression, and boosting models.
+- Achieved **Precision@50 of 0.444**, improving over the baseline of 0.392 by **5.2 percentage points**.
+- Developed a **human-in-the-loop content action playbook** and deployed the final research paper using GitHub Pages.
+
 ### AI/ML Intern — AyushLab (isiri technologies pvt ltd )            May 2026 – july 2026.
 
-Developed an invoice parser to extract structured data from PDF, image, Excel, and CSV invoices using EasyOCR,
+- Developed an invoice parser to extract structured data from PDF, image, Excel, and CSV invoices using EasyOCR,
 Regular Expressions, Pandas, NLP and LLM integration.
-
-Implemented hybrid approach By combining rule-based extraction with fallback.
-
-Designed a standardized JSON pipeline to extract invoice headers, supplier/buyer details, line items, pricing, taxes,
+- Implemented hybrid approach By combining rule-based extraction with fallback.
+- Designed a standardized JSON pipeline to extract invoice headers, supplier/buyer details, line items, pricing, taxes,
 batch, expiry, and totals.
-
-Designed validation logic to verify required fields, mathematical consistency, and generate review reports.
-
-Deployed the FastAPI invoice processing backend on Render using Docker for cloud-based invoice extraction and
+- Designed validation logic to verify required fields, mathematical consistency, and generate review reports.
+- Deployed the FastAPI invoice processing backend on Render using Docker for cloud-based invoice extraction and
 API serving.
 
 ## Some Things I've Built
