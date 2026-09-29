@@ -1,156 +1,153 @@
+# Hi, I'm Sujan KS 👋
 
-# Hi, I'm Sujan KS
+### AI/ML Engineer | Computer Vision | NLP | Robotics
 
-AI and Machine Learning developer based in Karnataka, India. I enjoy building intelligent systems that combine Computer Vision, Deep Learning, NLP, and Speech AI to solve real-world problems.
+AI and Machine Learning developer from Karnataka, India, focused on building practical intelligent systems across **Computer Vision, Deep Learning, NLP, Generative AI, and Robotics**.
 
-Currently exploring deep learning, computer vision, and multilingual AI systems through hands-on projects ranging from landslide detection using satellite imagery to question generation from multilingual text and speech.
-
-Lately focused on , Robotics ,Automotation and ROS2  also model development, data-centric AI, and strengthening my foundations in algorithms, mathematics, and Japanese language learning.
-
+Currently exploring **ROS2, robotics and automation, reinforcement learning, multilingual AI, and data-centric machine learning**.
 
 ---
 
-## Learning And Working On
+## 🚀 What I Build
 
-**ROS (Robotic Operating System)**:Working of ROS,IMU,LDR,IOT.
-**Colorectal Cancer Temporal Frame Cross Validation**:Working of Detection ,Tracking,Seagmentaion,Classification and temporal Frame validation.
-
-**Building** — Computer Vision applications, image classification models, object detection systems, and AI-powered projects using Python.
-
-**Learning** — ROS2 ,Reinforcement Learning, Deep Learning architectures, CNNs, Transformers, Large Language Models (LLMs), and advanced Python.
-
-**Grinding** — Data Structures & Algorithms, Machine Learning projects, and Japanese language practice.
-
----
-## Experinace
-
-### FlyRank Machine Learning Internship                                                              July 2026 - Present
-
-- Completed an **8-week Machine Learning Internship at FlyRank**, working on real-world SEO and search-performance data.
-- Built a **machine learning framework to identify webpages at risk of search-performance decline** and prioritize them for human review.
-- Performed **data analysis, feature engineering, leakage checks, and client-grouped validation** on large-scale search data.
-- Compared **8 ML model families**, including Random Forest, XGBoost, LightGBM, CatBoost, Logistic Regression, and boosting models.
-- Achieved **Precision@50 of 0.444**, improving over the baseline of 0.392 by **5.2 percentage points**.
-- Developed a **human-in-the-loop content action playbook** and deployed the final research paper using GitHub Pages.
-
-### AI/ML Intern — AyushLab (isiri technologies pvt ltd )            May 2026 – july 2026.
-
-- Developed an invoice parser to extract structured data from PDF, image, Excel, and CSV invoices using EasyOCR,
-Regular Expressions, Pandas, NLP and LLM integration.
-- Implemented hybrid approach By combining rule-based extraction with fallback.
-- Designed a standardized JSON pipeline to extract invoice headers, supplier/buyer details, line items, pricing, taxes,
-batch, expiry, and totals.
-- Designed validation logic to verify required fields, mathematical consistency, and generate review reports.
-- Deployed the FastAPI invoice processing backend on Render using Docker for cloud-based invoice extraction and
-API serving.
-
-## Some Things I've Built
-### GeoSentinel — Landslide Detection System
-
-Built an AI-powered landslide detection system using satellite imagery and deep learning to identify landslide-prone regions. Designed the complete pipeline from data preprocessing and augmentation to model training and evaluation, enabling automated terrain risk assessment from geospatial imagery.
-
-Focused on improving classification performance across varying terrain conditions while handling challenges such as class imbalance and environmental variability.
-
-**Tech:** Python, TensorFlow, Keras, OpenCV, NumPy, Pandas
-### Question Generation from Multilingual Text and Speech
-
-Built an AI-powered question generation system capable of generating meaningful questions from both text and speech inputs across multiple languages. Designed a pipeline that combines speech processing, natural language understanding, and question generation to improve accessibility and automated learning workflows.
-
-The system supports multilingual content, enabling users to provide either written text or spoken input and receive context-aware generated questions. Focused on preprocessing, language handling, and model optimization for diverse linguistic inputs.
-
-**Tech:** Python, NLP, Deep Learning, Speech Processing, TensorFlow
-
-
-### Face Genereator and Gender Classification System
-
-Built a deep learning model to classify gender from facial images using Computer Vision techniques. Worked on image preprocessing, data augmentation, model training, and evaluation.
-
-**Tech:** Python, TensorFlow, Keras, OpenCV
-
-### Object Detection Projects
-
-Implemented object detection pipelines using YOLO and OpenCV for real-time image analysis and recognition tasks.
-
-**Tech:** Python, OpenCV, YOLO
-
+- Computer Vision and Deep Learning systems
+- Object Detection and Image Segmentation
+- NLP and Generative AI applications
+- RAG and LLM-powered systems
+- Multilingual and Speech AI applications
+- Robotics and ROS2 projects
 
 ---
 
-## Tech Stack
+## 🔬 Currently Exploring
 
-### Languages
-
-Python • C++ • C
-
-### AI & Machine Learning
-
-TensorFlow • Keras • PyTorch • Scikit-Learn
-
-### Computer Vision
-
-OpenCV • YOLO • CNNs • Image Processing
-### Robotics:
-
-RL and ROS2
-
-### Data Science
-
-NumPy • Pandas • Matplotlib • Seaborn
-
-### Databases
-
-MySQL • MongoDB
-
-### Tools
-
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab • Kagel Notebook
+- **ROS2 & Robotics** — robotics, automation, IMU, LDR, IoT
+- **Computer Vision** — detection, segmentation, classification, model optimization
+- **AI Research** — temporal validation, tracking, deep learning architectures
+- **Reinforcement Learning** — fundamentals and practical implementation
+- **Japanese** — preparing for JLPT N5
 
 ---
 
-## Currently Into
+## ⭐ Featured Projects
 
-**AI & Deep Learning** — Neural Networks, Computer Vision, NLP, Transformers, RAG, and LLMs.
-**Automotaion** -- Robotics, ROS2 and Reinforcement learning
+### 🌍 GeoSentinel
+AI-powered landslide detection and monitoring system using **YOLOv8-Seg**, computer vision, geospatial visualization, drone-video analysis, and automated alerts.
 
-**Computer Vision** — Object Detection, Image Classification, Transfer Learning, and Model Optimization.
+**Tech:** Python • YOLOv8-Seg • OpenCV • Streamlit • Folium • Roboflow
 
-**Japanese Learning** — Preparing for JLPT N5 and building vocabulary daily.
+🔗 [Repository](https://github.com/Sujan-lab-cell/GeoSentinel-Landslide-Detection-System)
 
-**Problem Solving** — Practicing algorithms and coding challenges consistently.
+### 🤖 RAG-Powered Portfolio AI Assistant
+Conversational RAG system integrated into my portfolio using **BGE-M3 embeddings, Supabase pgvector, hybrid retrieval, reranking, conversational memory, and LLM generation**.
+
+**Tech:** Next.js • TypeScript • Python • BGE-M3 • Supabase • pgvector • Groq/Grok • RAG
+
+🔗 [Portfolio](https://port-folio-sujan.vercel.app/)
+
+### 📄 AI Invoice Data to JSON Parser
+Hybrid document-intelligence system for converting pharmaceutical invoices into structured JSON using **OCR, NLP, regex extraction, validation, and selective LLM fallback**.
+
+**Tech:** Python • EasyOCR • FastAPI • Pydantic • Pandas • Regex • Docker
+
+🔗 [Repository](https://github.com/Sujan-lab-cell/INVOICE_TO_JSON_AI_PARSER)
+
+### 🧠 SmartQ Generator
+Multilingual question-generation system combining **text/audio processing, language detection, translation, T5-based question generation, TTS, and document export**.
+
+**Tech:** Python • Streamlit • Transformers • T5 • NLP • Speech Processing
+
+🔗 [Repository](https://github.com/Sujan-lab-cell/Question-Generation-from-Multilingual-Text-and-Speech)
+
+### 🎭 Human Face Generation
+Generative AI project implementing **WGAN-GP** for synthetic human-face generation.
+
+**Tech:** Python • TensorFlow • Keras • WGAN-GP • Computer Vision
+
+🔗 [Repository](https://github.com/Sujan-lab-cell/Human_Face_Generator_WGAN)
 
 ---
 
-## GitHub Stats
+## 💼 Experience
+
+### Machine Learning Engineering Intern — FlyRank
+**July 2026 – September 2026**
+
+Worked on search-performance data, webpage decline prediction, feature engineering, model comparison, grouped validation, and human-in-the-loop prioritization.
+
+**Key result:** Precision@50 of **0.444** vs **0.392 baseline**.
+
+### AI/ML Intern — ISIRI Technologies / AyusLab
+**June 2026 – August 2026**
+
+Developed a hybrid pharmaceutical invoice parser using **OCR, NLP preprocessing, rule-based extraction, validation, and selective LLM fallback**, with a FastAPI backend.
+
+### Machine Learning Intern — EdiGlobe
+**July 2025 – August 2025**
+
+Worked on structured/tabular machine-learning workflows including preprocessing, exploratory analysis, feature preparation, and model development.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Python • C++ • C • Java • SQL
+
+**AI / ML**  
+Machine Learning • Deep Learning • NLP • Generative AI • LLMs • RAG • Transformers • Reinforcement Learning
+
+**Computer Vision**  
+OpenCV • YOLO • Object Detection • Image Segmentation • CNNs • Image Processing
+
+**Robotics**  
+ROS2 • Robotics • Automation • IoT
+
+**Frameworks & Backend**  
+PyTorch • TensorFlow • Keras • Scikit-learn • FastAPI • Docker
+
+**Data & Databases**  
+NumPy • Pandas • Matplotlib • MySQL • MongoDB • Supabase
+
+**Tools**  
+Git • GitHub • VS Code • Jupyter • Google Colab • Roboflow • Streamlit
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sujan-lab-cell&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-lab-cell&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujan-lab-cell&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-lab-cell&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujan-lab-cell&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujan-lab-cell&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Social Connection
+## 🎯 Focus
 
-📧 Email: **[sujankswork@gmail.com](mailto:sujankswork@gmail.com)**
+**Building:** AI/ML systems that connect models with real-world applications.
 
-💼 LinkedIn: **[sujan-k-s-a41261321](https://www.linkedin.com/in/sujan-k-s-a41261321/)**
+**Learning:** ROS2 • Robotics • Reinforcement Learning • LLMs • Advanced Computer Vision
 
-🐙 GitHub: **https://github.com/Sujan-lab-cell**
-
+**Improving:** Data Structures & Algorithms • Machine Learning fundamentals • Japanese
 
 ---
-```text
-"Artificial Intelligence is the new electricity" 
-                                                        -AI visionary Andrew Ng."*
 
-```
+## 🌐 Connect With Me
+
+📧 **Email:** [sujankswork@gmail.com](mailto:sujankswork@gmail.com)
+
+💼 **LinkedIn:** [Sujan K S](https://www.linkedin.com/in/sujan-k-s-a41261321/)
+
+🐙 **GitHub:** [Sujan-lab-cell](https://github.com/Sujan-lab-cell)
+
+🌐 **Portfolio:** [port-folio-sujan.vercel.app](https://port-folio-sujan.vercel.app/)
+
 ---
-```text
-"life is colorful let machines see"
-                                          -Sujan KS
-```
-                                          ---
+
+> *"Life is colorful, let machines see."*  
+> — Sujan KS
