@@ -29,42 +29,6 @@ Currently exploring **ROS2, robotics and automation, reinforcement learning, mul
 
 ---
 
-##  Featured Projects
-
-### 1) GeoSentinel
-AI-powered landslide detection and monitoring system using **YOLOv8-Seg**, computer vision, geospatial visualization, drone-video analysis, and automated alerts.
-
-**Tech:** Python • YOLOv8-Seg • OpenCV • Streamlit • Folium • Roboflow
-
-🔗 [Repository](https://github.com/Sujan-lab-cell/GeoSentinel-Landslide-Detection-System)
-
-###  2)RAG-Powered Portfolio AI Assistant
-Conversational RAG system integrated into my portfolio using **BGE-M3 embeddings, Supabase pgvector, hybrid retrieval, reranking, conversational memory, and LLM generation**.
-
-**Tech:** Next.js • TypeScript • Python • BGE-M3 • Supabase • pgvector • Groq/Grok • RAG
-
-🔗 [Portfolio](https://port-folio-sujan.vercel.app/)
-
-### 3) AI Invoice Data to JSON Parser
-Hybrid document-intelligence system for converting pharmaceutical invoices into structured JSON using **OCR, NLP, regex extraction, validation, and selective LLM fallback**.
-
-**Tech:** Python • EasyOCR • FastAPI • Pydantic • Pandas • Regex • Docker
-
-🔗 [Repository](https://github.com/Sujan-lab-cell/INVOICE_TO_JSON_AI_PARSER)
-
-### 4) SmartQ Generator
-Multilingual question-generation system combining **text/audio processing, language detection, translation, T5-based question generation, TTS, and document export**.
-
-**Tech:** Python • Streamlit • Transformers • T5 • NLP • Speech Processing
-
-🔗 [Repository](https://github.com/Sujan-lab-cell/Question-Generation-from-Multilingual-Text-and-Speech)
-
-### 5) Human Face Generation
-Generative AI project implementing **WGAN-GP** for synthetic human-face generation.
-
-**Tech:** Python • TensorFlow • Keras • WGAN-GP • Computer Vision
-
-🔗 [Repository](https://github.com/Sujan-lab-cell/Human_Face_Generator_WGAN)
 
 ---
 
