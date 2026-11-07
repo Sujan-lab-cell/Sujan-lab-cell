@@ -32,26 +32,6 @@ Currently exploring **ROS2, robotics and automation, reinforcement learning, mul
 
 ---
 
-##  Experience
-
-### Machine Learning Engineering Intern — FlyRank
-**July 2026 – September 2026**
-
-Worked on search-performance data, webpage decline prediction, feature engineering, model comparison, grouped validation, and human-in-the-loop prioritization.
-
-**Key result:** Precision@50 of **0.444** vs **0.392 baseline**.
-
-### AI/ML Intern — ISIRI Technologies / AyusLab
-**June 2026 – August 2026**
-
-Developed a hybrid pharmaceutical invoice parser using **OCR, NLP preprocessing, rule-based extraction, validation, and selective LLM fallback**, with a FastAPI backend.
-
-### Machine Learning Intern — EdiGlobe
-**July 2025 – August 2025**
-
-Worked on structured/tabular machine-learning workflows including preprocessing, exploratory analysis, feature preparation, and model development.
-
----
 
 ##  Tech Stack
 
